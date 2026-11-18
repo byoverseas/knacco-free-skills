@@ -1,0 +1,14 @@
+{
+  "name": "knacco-free-skills",
+  "description": "Free AI skills from Knacco, the AI work library.",
+  "owner": {
+    "name": "Knacco"
+  },
+  "plugins": [
+    {
+      "name": "knacco-free-skills",
+      "source": "./",
+      "description": "Six free skills: brand guide, product photo and video prompts, prompt writing, lead magnet planning, data research and press kit, and project memory."
+    }
+  ]
+}

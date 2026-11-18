@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lead Magnet Planner"
+  short_description: "Lead Magnet Planner"
+  default_prompt: "Use Lead Magnet Planner to rank free-offer ideas for your audience and paid offer, then prepare a build specification with clear inputs, outputs and success measures."

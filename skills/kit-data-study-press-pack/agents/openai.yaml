@@ -1,0 +1,4 @@
+interface:
+  display_name: "Data Research & Press Kit"
+  short_description: "Data Research & Press Kit"
+  default_prompt: "Use Data Research & Press Kit to plan a focused data study, check a sample of the records, and prepare findings and press materials with a documented method."

@@ -1,0 +1,12 @@
+{
+  "name": "knacco-free-skills",
+  "displayName": "Knacco Free Skills",
+  "version": "1.0.0",
+  "description": "Six free skills from Knacco: brand guide, product photo and video prompts, prompt writing, lead magnet planning, data research and press kit, and project memory.",
+  "author": {
+    "name": "Knacco",
+    "url": "https://knacco.com"
+  },
+  "homepage": "https://knacco.com/en/categories/free",
+  "repository": "https://github.com/byoverseas/knacco-free-skills"
+}

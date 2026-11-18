@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Project Memory"
+  short_description: "AI Project Memory"
+  default_prompt: "Use AI Project Memory to organize workspace, project and campaign decisions in readable memory files, then check for stale information, conflicting records and missing details."

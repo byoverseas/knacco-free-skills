@@ -1,0 +1,4 @@
+interface:
+  display_name: "Brand Guide Builder"
+  short_description: "Brand Guide Builder"
+  default_prompt: "Use Brand Guide Builder to turn existing brand assets into reusable rules, separate recorded facts from inferred choices, and check proposed documents against the brand specification."

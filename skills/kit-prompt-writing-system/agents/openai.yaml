@@ -1,0 +1,4 @@
+interface:
+  display_name: "Prompt Writing Guide"
+  short_description: "Prompt Writing Guide"
+  default_prompt: "Use Prompt Writing Guide to build reusable prompts with clear facts, tasks and output examples, then identify missing or weak parts with local checks."

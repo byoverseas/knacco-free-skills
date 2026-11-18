@@ -1,0 +1,4 @@
+interface:
+  display_name: "Product Photo & Video Prompts"
+  short_description: "Product Photo & Video Prompts"
+  default_prompt: "Use Product Photo & Video Prompts to write matching image and motion prompts from one product brief, then check the product details before generating the media."
