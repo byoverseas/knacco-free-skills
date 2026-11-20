@@ -10,7 +10,7 @@ Nothing below needs learning before you start. Come back when a word gets in the
 
 | Word | What it means here |
 | --- | --- |
-| Agent | An AI assistant such as Claude Code, Codex or Gemini CLI, which starts each session with no memory |
+| Agent | An AI assistant such as Claude Code, Codex or Antigravity CLI, which starts each session with no memory |
 | Context | Everything the assistant can see in one session |
 | Level | One of the three layers of memory, each with a single job |
 | Memory file | A plain text file holding confirmed facts, kept on your own disk |

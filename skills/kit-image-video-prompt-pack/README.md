@@ -32,9 +32,8 @@ Python 3.9 or newer for the two included tools (standard library only). No accou
 
 ## Licence and reuse
 
-Free to use, including in paid client work. You may install it, use it, change it for your
-own purposes, and ship whatever you make with it. You may not resell this product itself,
-or redistribute it as your own.
+MIT licence. Free to use, change and share, including in paid client work. Keep the
+copyright and licence notice with any copy you pass on.
 
 What you make with it stays yours. Nothing here claims any right over your output, your
 data or your brand. Every prompt, clause and template in this product was written for it,

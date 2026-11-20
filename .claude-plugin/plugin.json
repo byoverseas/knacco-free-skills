@@ -8,5 +8,6 @@
     "url": "https://knacco.com"
   },
   "homepage": "https://knacco.com/en/free",
-  "repository": "https://github.com/byoverseas/knacco-free-skills"
+  "repository": "https://github.com/byoverseas/knacco-free-skills",
+  "license": "MIT"
 }
