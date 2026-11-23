@@ -1,0 +1,32 @@
+PASS  score 100/100  errors 0  warnings 0
+
+[ok  ] R01          Both prompts carry all nine blocks.
+         evidence: still missing []; motion missing []
+[ok  ] R02-SCENE    SCENE is identical in both prompts.
+[ok  ] R02-HERO     HERO is identical in both prompts.
+[ok  ] R02-PLACEMENT PLACEMENT is identical in both prompts.
+[ok  ] R02-LIGHT    LIGHT is identical in both prompts.
+[ok  ] R02-GUARDRAILS GUARDRAILS is identical in both prompts.
+[ok  ] R03          The still switches motion off.
+         evidence: Motion: none. A still photograph. No motion blur, no ghosting, no implied movement, no double edges.
+[ok  ] R04          The animation locks the hero.
+         evidence: Hero motion: none. The product and its label remain perfectly still and razor-sharp for the whole clip.
+Camera: locked off, no angle change, no pan, no orbit, no tilt, no handheld, no zoom, no rack focus off the front fa
+[ok  ] R05          The camera budget is within 2%.
+         evidence: Camera: locked off, no angle change, no pan, no orbit, no tilt, no handheld, no zoom, no rack focus off the front face.
+[ok  ] R06          No banned camera move is requested.
+[ok  ] R07          The label state is explicit and protected.
+         evidence: A handmade stoneware mug with a single loop handle measuring 9.5 cm tall, 8.5 cm wide, 8.5 cm deep, speckled oatmeal stoneware with a satin glaze that stops 12 mm above the foot, leaving a band of raw iron-flecked clay. 
+[ok  ] R08          Exposure and white balance are locked.
+         evidence: Must not change: product geometry, proportions, surface finish, label text and placement, base contact point, front-face angle, lit side, exposure, white balance.
+Must not appear: extra products, hands, people, text, log
+[ok  ] R09          The two outputs carry the intended aspects.
+         evidence: still: Still: 2:3, 2048x3072, sRGB, PNG, no border. | motion: Motion: 9:16, 1080x1920, 6 s, 24 fps, H.264 high bitrate, no audio unless suppli
+[ok  ] R10          Duration and frame rate are in range.
+         evidence: Motion: 9:16, 1080x1920, 6 s, 24 fps, H.264 high bitrate, no audio unless supplied.
+[ok  ] R11          2 motion layer(s) declared.
+         evidence: 2 layer(s)
+[ok  ] R12          The negative guardrails are present.
+         evidence: Must not change: product geometry, proportions, surface finish, label text and placement, base contact point, front-face angle, lit side, exposure, white balance.
+Must not appear: extra products, hands, people, text, log
+[ok  ] R13          Fixed optics match between the pair.

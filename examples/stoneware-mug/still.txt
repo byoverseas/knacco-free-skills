@@ -1,0 +1,31 @@
+[SCENE]
+A quiet kitchen corner in the morning, an oak bench against a limewashed wall, a folded linen cloth and a small wooden board at the back, a tall north-facing window at camera-left. Background falls away at 1.5 m.
+
+[HERO]
+A handmade stoneware mug with a single loop handle measuring 9.5 cm tall, 8.5 cm wide, 8.5 cm deep, speckled oatmeal stoneware with a satin glaze that stops 12 mm above the foot, leaving a band of raw iron-flecked clay. Faint throwing rings on the wall and one soft glaze drip on the side facing the lens. No text, no logo, no label and no embossed wordmark anywhere on the product. Geometry is fixed; no redesign, no added parts, no proportion change.
+
+[PLACEMENT]
+Base contact at 52% frame height from the top, centre, slightly left, front face three-quarter view, handle toward camera-right. 6 cm of an oiled oak bench top with a straight grain running away from the lens in front; a folded linen cloth at 30 cm behind. Contact shadow: soft, camera-right, short and cool. In 9:16 the base contact moves to 46% frame height, keeping the same horizontal position, the same front-face angle and the same relative distances.
+
+[OPTICS]
+Fixed: 85 mm, 0.9 m from the front face, T2.8, shutter 180 deg look, ISO look 200, white balance 5600 K, none. Focus on the front face; the rim, the glaze drip and the raw clay band at the foot are sharp, the window frame and the limewashed wall falls away. Frame: 2:3, 2048x3072, product occupies 52% of frame height, 8% headroom, negative space on the open side.
+
+[LIGHT]
+Key: a soft north window from camera-left, 5600 K, even and shadowless on the near wall of the mug. Fill: the limewashed wall bouncing light back at camera-right. Rim: a thin line of window light along the rim. Practicals: none. Falloff: the back wall goes one and a half stops down.
+
+[ATMOSPHERE]
+Clean, still morning air. A thin thread of steam rises from the mug. No haze on the lens, no droplets.
+
+[MOTION]
+Motion: none. A still photograph. No motion blur, no ghosting, no implied movement, no double edges.
+
+[GUARDRAILS]
+Must not change: product geometry, proportions, surface finish, label text and placement, base contact point, front-face angle, lit side, exposure, white balance.
+Must not appear: extra products, hands, people, text, logos, watermarks, UI, frames, borders, duplicate shadows.
+Physics: one gravity direction, one airflow direction, correct contact shadow, no floating parts, no fused or extra digits if a hand is present.
+Do not redesign, restyle or "improve" the product.
+The mug reads as handmade stoneware, never as plastic or porcelain.
+The handle keeps one clean loop.
+
+[OUTPUT]
+Still: 2:3, 2048x3072, sRGB, PNG, no border.

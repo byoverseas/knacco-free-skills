@@ -33,13 +33,15 @@ Ready-to-use AI skills, guides and workflows for writing, research and creative 
   <img src="./assets/readme/how-it-works.png" width="100%" alt="Choose a skill, install it and use it in your AI tool.">
 </p>
 
-Run one command in your project folder. It needs Node.js 22.20 or later.
+**Claude Code, Codex and other coding tools.** Run one command in your project folder. It needs Node.js 22.20 or later.
 
 ```sh
 npx skills add byoverseas/knacco-free-skills
 ```
 
 Restart your tool, and the product is ready. The tools inside each product need Python 3.9 or later.
+
+**The Claude app.** Download a skill's ZIP file from the [latest release](https://github.com/byoverseas/knacco-free-skills/releases/latest). In Claude, open Customize > Skills, select "+", then "Create skill", then "Upload a skill", and switch the skill on. "Code execution and file creation" must be on under Settings > Capabilities.
 
 <details>
 <summary>More installation options</summary>
@@ -107,9 +109,15 @@ Write a still prompt and a motion
 prompt, then check the pair.
 ```
 
+<p align="center">
+  <img src="./assets/readme/example.webp" width="100%" alt="The photograph made from the still prompt this request returns: a speckled stoneware mug on an oak bench in north window light.">
+</p>
+
+The skill wrote the [still prompt](examples/stoneware-mug/still.txt) and the [motion prompt](examples/stoneware-mug/motion.txt) from one [brief](examples/stoneware-mug/brief.json), and its checker passed all 13 tests. The photograph was made from the still prompt, unchanged.
+
 ## Connect your Knacco library
 
-Bring your Knacco library into Claude, Claude Code, ChatGPT, Codex, Cursor, VS Code with GitHub Copilot and Antigravity. Connect once. Then search what you own, open a product's guide and get your files without leaving the conversation.
+Bring your Knacco library into Claude, ChatGPT and Gemini. Connect once. Then search what you own, open a product's guide and get your files without leaving the conversation.
 
 ```sh
 claude mcp add --transport http knacco https://knacco.com/api/v1/agent/mcp
