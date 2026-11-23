@@ -18,6 +18,9 @@
   <a href="#installation"><img src="https://img.shields.io/badge/Node.js-22.20%2B-68cee8?style=for-the-badge&labelColor=191b29&logo=nodedotjs&logoColor=68cee8" alt="Node.js 22.20 or newer"></a>
   <a href="#installation"><img src="https://img.shields.io/badge/Python-3.9%2B-68cee8?style=for-the-badge&labelColor=191b29&logo=python&logoColor=68cee8" alt="Python 3.9 or newer"></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/Licence-MIT-FECE00?style=for-the-badge&labelColor=191b29" alt="Licence: MIT"></a>
+  <a href="https://skills.pub/repo/byoverseas/knacco-free-skills"><img src="https://img.shields.io/badge/Listed_on-skills.pub-68cee8?style=for-the-badge&labelColor=191b29" alt="Listed on skills.pub"></a>
+  <br>
+  <a href="https://skills.pub/repo/byoverseas/knacco-free-skills"><img src="https://skills.pub/api/claim/badge?repo=byoverseas%2Fknacco-free-skills" alt="listed on skills.pub"></a>
 </p>
 
 # Knacco Free Skills
